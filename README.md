@@ -16,7 +16,7 @@
 - 🎯 **2+ ans d’expérience** en modélisation prédictive dans les secteurs banque, assurance & énergie
 - 🤝 Habitué aux projets orientés impact : **score d’insatisfaction client**, **prévision d’impayés**, **modèles de recouvrement**
 - 💡 Fort en **vulgarisation de modèles** pour les rendre réellement utilisables
-- 🎓 Diplômé d’**ESTIA (MSc Big Data & IA)-2024** et de l’**ENSAI (Mastère Spécialisé Data Science)-2025**
+- 🎓 Diplômé d’**ESTIA (MSc Big Data & Intelligence Artificielle)** et de l’**ENSAI (Mastère Spécialisé Data Science)**
 
 ---
 
