@@ -39,7 +39,7 @@
   </tr>
 </table>
 
-### **Info Sup**
+### 📇 **Infos de contact & Présentation rapide**
 
 
 <table align="center">
