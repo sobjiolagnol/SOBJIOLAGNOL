@@ -39,10 +39,10 @@
   </tr>
 </table>
 
-### **Lagnol SOBJIO**
+### **Info Sup**
 
 
-<table>
+<table align="center">
   <tr>
     <th align="left">💡 Passion</th>
     <td>Sciences de données et intelligence artificielle</td>
