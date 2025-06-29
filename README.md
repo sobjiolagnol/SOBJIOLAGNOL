@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hello, I'm Lagnol SOBJIO
 
-<!--
-**sobjiolagnol/sobjiolagnol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Data Scientist passionné par la prédiction, le scoring et l’impact réel des modèles — j’ensemence les données, je cultive des modèles, et je récolte des décisions.**
 
-Here are some ideas to get you started:
+🔍 Plus de 2 ans d'expérience en modélisation prédictive et machine learning, dans les secteurs banque, assurance et énergie.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Mes expertises :
+- Modèles de scoring & prévision (Satisfaction client, Impayés, Recouvrement)
+- Data storytelling & mise en production (Python, CI/CD, Snowflake, FastAPI)
+- Traitement de données complexes (Séries temporelles, NLP, Clustering)
+
+🛠️ Stack préférée :
+`Python` • `Scikit-learn` • `XGBoost` • `SQL` • `Docker` • `Snowflake` • `Git`
+
+🎓 Actuellement en Mastère Spécialisé à l'ENSAI (Data Science pour la Connaissance Client)
+
+📫 Contact : lagnolsobjio@yahoo.fr | [LinkedIn](https://www.linkedin.com/in/sobjiolagnol) | 📍 Île-de-France, France
