@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00ADB5&center=true&vCenter=true&multiline=true&lines=🔍+Machine+Learning+%7C+Deep+Learning;📊+%7C+CI%2FCD+%7C alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00ADB5&center=true&vCenter=true&multiline=true&lines=🔍+Machine+Learning+%7C+Deep+Learning;" alt="Typing SVG" />
 </p>
 ---
 ### 🌱 Qui suis-je ?
