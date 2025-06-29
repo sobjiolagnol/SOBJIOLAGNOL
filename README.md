@@ -1,31 +1,29 @@
----
 <h1 align="center">👋 Hello, I'm Lagnol SOBJIO</h1>
-<h3 align="center">🚀Data Scientist passionné par la prédiction, le scoring et l’impact réel des modèles</h3>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00ADB5&center=true&vCenter=true&multiline=true&lines=🔍+Scoring%2C+Prédiction%2C+Séries+Temporelles;" alt="Typing SVG" />
-</p>
+<h3 align="center">🚀 Data Scientist — prédire, scorer, impacter !</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00ADB5&center=true&vCenter=true&multiline=true&lines=🔍+Machine+Learning+%7C+Deep+Learning;" alt="Typing SVG" />
-</p>
----
-### 🌱 Qui suis-je ?
-- 🎯 **2+ ans d’expérience** dans la modélisation prédictive (banque, assurance, énergie)
-- 🤝 Adepte du travail interdisciplinaire : métier + data + tech
-- 💬 J’aime faire parler les données et **vulgariser les modèles** pour qu’ils soient vraiment utilisés
-- 🎓 Master of Science à ESTIA et Mastère Spécialisé à l'ENSAI  en Data Science & Intelligence Artificielle
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00ADB5&center=true&vCenter=true&multiline=true&width=800&lines=🔍+Scoring+%7C+Prévision+%7C+Séries+Temporelles;🧠+Machine+Learning+%7C+Deep+Learning+%7C+MLOps;📊+Data+Storytelling+%7C+API+Prod+%7C+CI%2FCD" alt="Typing animation" />
+</div>
 
 ---
 
-### 🧰 Stack & Outils préférés
+### 🌱 À propos de moi
+
+- 🎯 **2+ ans d’expérience** en modélisation prédictive dans les secteurs banque, assurance & énergie
+- 🤝 Habitué aux projets orientés impact : **score d’insatisfaction client**, **prévision d’impayés**, **modèles de recouvrement**
+- 💡 Fort en **vulgarisation de modèles** pour les rendre réellement utilisables
+- 🎓 Diplômé d’**ESTIA (MSc Big Data & IA)** et de l’**ENSAI (Mastère Spé Data Science)**
+
+---
+
+### 🧰 Tech Stack Favori
+
 ```python
-Langages  : Python, SQL, PySpark
+Langages         : Python, SQL, PySpark
 Machine Learning : Scikit-learn, XGBoost, Random Forest, TensorFlow, PyTorch
-Outils Data : Snowflake, Airflow, FastAPI, Docker
-Cloud & Prod : AWS, GitHub Actions, Streamlit, CI/CD, MLOps
+MLOps & Déploiement : FastAPI, Docker, Airflow, GitHub Actions, Streamlit, MLflow
+Data & Cloud     : Snowflake, AWS, Power BI
 
-🛠️ Stack préférée :
-`Python` • `Scikit-learn` • `SQL` • `Docker` • `Snowflake` • `Git`
 
 
 📫 Contact : lagnolsobjio@yahoo.fr | [LinkedIn](https://www.linkedin.com/in/lagnol-sobjio/) | 📍 Île-de-France, France
