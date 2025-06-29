@@ -43,6 +43,65 @@
 
 ---
 
+---
+
+<h3>🛠️ Compétences Techniques</h3>
+
+<table align="center" style="border-collapse: collapse; width: 100%; font-family: sans-serif;">
+  <thead>
+    <tr style="background-color: #f2f2f2;">
+      <th align="left" style="padding: 8px; border-bottom: 2px solid #ddd;">Domaine</th>
+      <th align="left" style="padding: 8px; border-bottom: 2px solid #ddd;">Technologies & Outils</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong>Machine Learning</strong></td>
+      <td style="padding: 8px; border-bottom: 1px solid #eee;">
+        Scikit-learn, XGBoost, LightGBM, CatBoost, TensorFlow, PyTorch, Keras, Statsmodels
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong>Modélisation Mathématique</strong></td>
+      <td style="padding: 8px; border-bottom: 1px solid #eee;">
+        Modèles linéaires/généralisés, Séries temporelles (ARIMA, Prophet), Optimisation (linéaire, convexe), Réseaux bayésiens, Systèmes dynamiques
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong>Langages</strong></td>
+      <td style="padding: 8px; border-bottom: 1px solid #eee;">
+        Python, R, SQL, PySpark, Bash
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong>MLOps & Déploiement</strong></td>
+      <td style="padding: 8px; border-bottom: 1px solid #eee;">
+        FastAPI, Docker, Airflow, MLflow, Streamlit, GitHub Actions, DVC, ONNX, Kubernetes (bases)
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong>Data Engineering & Cloud</strong></td>
+      <td style="padding: 8px; border-bottom: 1px solid #eee;">
+        Snowflake, AWS (S3, Lambda, EC2), BigQuery, Google Cloud Platform, Spark, Hadoop
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong>Visualisation & BI</strong></td>
+      <td style="padding: 8px; border-bottom: 1px solid #eee;">
+        Power BI, Tableau, Matplotlib, Seaborn, Plotly, Dash
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 8px;"><strong>Gestion de Projet & Méthodologie</strong></td>
+      <td style="padding: 8px;">
+        Agile/Scrum, Git, CI/CD, Documentation (Markdown, Sphinx), ML Lifecycle, Data Governance
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+---
 ### 📇 **Infos de contact & Présentation rapide**
 
 
