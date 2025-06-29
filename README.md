@@ -19,29 +19,6 @@
 - 🎓 Diplômé  de l’[ENSAI (Mastère Spécialisé - Data Science Pour la Connaissance client (Bac+6)](https://ensai.fr/mastere-specialise-data-science-pour-la-connaissance-client/) et d' [ESTIA (Master of Science - Big Data & Intelligence Artificielle)(Bac+5)](https://www.estia.fr/formations/master/masteres-specialises/msc-master-of-science-bihar-big-data-ai/)
 ---
 
-### 🧰 Tech Stack Favori
-
-
-<table align="center">
-  <tr>
-    <th align="left"> Machine Learning</th>
-    <td>Scikit-learn, XGBoost, Random Forest, TensorFlow, PyTorch</td>
-  </tr>
-  <tr>
-    <th align="left"> Langages</th>
-    <td>Python, R,SQL, PySpark</td>
-  </tr>
-  <tr>
-    <th align="left"> MLOps & Déploiement</th>
-    <td>FastAPI, Docker, Airflow, GitHub Actions, Streamlit, MLflow</td>
-  </tr>
-  <tr>
-    <th align="left"> Data & Cloud</th>
-    <td>Snowflake, AWS, Power BI</td>
-  </tr>
-</table>
-
----
 
 ---
 
