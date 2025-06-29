@@ -7,7 +7,10 @@
 
 
 ---
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00ADB5&center=true&vCenter=true&multiline=true&lines=🔍+Scoring%2C+Prédiction%2C+Séries+Temporelles;🧠+Machine+Learning+%7C+Deep+Learning;📊+Data+Storytelling+%7C+CI%2FCD+%7C+Cloud+%7C+API" alt="Typing SVG" />
+</p>
+---
 ### 🌱 Qui suis-je ?
 - 🎯 **2+ ans d’expérience** dans la modélisation prédictive (banque, assurance, énergie)
 - 🤝 Adepte du travail interdisciplinaire : métier + data + tech
