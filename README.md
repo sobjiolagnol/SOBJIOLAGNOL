@@ -16,8 +16,8 @@
 - 🎯 **2+ ans d’expérience** en modélisation prédictive dans les secteurs banque, assurance & énergie
 - 🤝 Habitué aux projets orientés impact : **score d’insatisfaction client**, **prévision d’impayés**, **modèles de recouvrement**
 - 💡 Fort en **vulgarisation de modèles** pour les rendre réellement utilisables
-- 🎓 Diplômé d’**ESTIA (MSc Big Data & Intelligence Artificielle)** et de l’**ENSAI (Mastère Spécialisé Data Science)**
--[ESTIA (MSc Big Data & Intelligence Artificielle)](https://www.estia.fr/formations/master/masteres-specialises/msc-master-of-science-bihar-big-data-ai/)
+- 🎓 Diplômé  de l’[ENSAI (Mastère Spécialisé Data Science)](https://ensai.fr/mastere-specialise-data-science-pour-la-connaissance-client/)  
+-🎓 Diplômé [ESTIA (MSc Big Data & Intelligence Artificielle)](https://www.estia.fr/formations/master/masteres-specialises/msc-master-of-science-bihar-big-data-ai/)
 ---
 
 ### 🧰 Tech Stack Favori
