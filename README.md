@@ -5,10 +5,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00ADB5&center=true&vCenter=true&multiline=true&lines=🔍+Scoring%2C+Prédiction%2C+Séries+Temporelles;" alt="Typing SVG" />
 </p>
 
-
----
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00ADB5&center=true&vCenter=true&multiline=true&lines=🔍+🧠+Machine+Learning+%7C+Deep+Learning;📊+%7C+CI%2FCD+%7C+Cloud+%7C+API" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00ADB5&center=true&vCenter=true&multiline=true&lines=🔍+Machine+Learning+%7C+Deep+Learning;📊+%7C+CI%2FCD+%7C alt="Typing SVG" />
 </p>
 ---
 ### 🌱 Qui suis-je ?
