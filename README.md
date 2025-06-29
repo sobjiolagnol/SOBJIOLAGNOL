@@ -1,13 +1,5 @@
-# 👋 Hello, I'm Lagnol SOBJIO
-
-🎯 **Data Scientist passionné par la prédiction, le scoring et l’impact réel des modèles — j’ensemence les données, je cultive des modèles, et je récolte des décisions.**
-
-🔍 Plus de 2 ans d'expérience en modélisation prédictive et machine learning, dans les secteurs banque, assurance et énergie.
-
-
-
-<h1 align="center">👋 Salut, moi c’est Lagnol SOBJIO</h1>
-<h3 align="center">🚀 Data Scientist - Modèles qui parlent, décisions qui agissent</h3>
+<h1 align="center">👋 Hello, I'm Lagnol SOBJIO</h1>
+<h3 align="center">🚀*Data Scientist passionné par la prédiction, le scoring et l’impact réel des modèles</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00ADB5&center=true&vCenter=true&multiline=true&lines=🔍+Scoring%2C+Prédiction%2C+Séries+Temporelles;🧠+Machine+Learning+%7C+Deep+Learning;📊+Data+Storytelling+%7C+CI%2FCD+%7C+Cloud+%7C+API" alt="Typing SVG" />
