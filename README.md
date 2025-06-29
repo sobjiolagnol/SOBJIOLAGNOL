@@ -15,3 +15,29 @@
 🎓 Master of Science à ESTIA et Mastère Spécialisé à l'ENSAI  en Data Science & Intelligence Artificielle
 
 📫 Contact : lagnolsobjio@yahoo.fr | [LinkedIn](https://www.linkedin.com/in/lagnol-sobjio/) | 📍 Île-de-France, France
+
+
+<h1 align="center">👋 Salut, moi c’est Lagnol SOBJIO</h1>
+<h3 align="center">🚀 Data Scientist - Modèles qui parlent, décisions qui agissent</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00ADB5&center=true&vCenter=true&multiline=true&lines=🔍+Scoring%2C+Prédiction%2C+Séries+Temporelles;🧠+Machine+Learning+%7C+Deep+Learning;📊+Data+Storytelling+%7C+CI%2FCD+%7C+Cloud+%7C+API" alt="Typing SVG" />
+</p>
+
+---
+
+### 🌱 Qui suis-je ?
+- 🎯 **2+ ans d’expérience** dans la modélisation prédictive (banque, assurance, énergie)
+- 🤝 Adepte du travail interdisciplinaire : métier + data + tech
+- 💬 J’aime faire parler les données et **vulgariser les modèles** pour qu’ils soient vraiment utilisés
+- 🧠 Formé à ENSAI, ESTIA & ESSFAR (Statistiques, IA, MLOps, NLP…)
+
+---
+
+### 🧰 Stack & Outils préférés
+```python
+Langages  : Python, SQL, PySpark
+Machine Learning : Scikit-learn, XGBoost, TensorFlow, PyTorch
+Outils Data : Snowflake, Airflow, FastAPI, Docker
+Cloud & Prod : AWS, GitHub Actions, Streamlit, CI/CD, MLOps
+
