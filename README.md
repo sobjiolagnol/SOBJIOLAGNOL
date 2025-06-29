@@ -25,7 +25,7 @@
     <td>Scikit-learn, XGBoost, Random Forest, TensorFlow, PyTorch</td>
   </tr>
   <tr>
-    <th align="left">🛠 Langages</th>
+    <th align="left"> Langages</th>
     <td>Python, R,SQL, PySpark</td>
   </tr>
   <tr>
