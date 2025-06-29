@@ -23,7 +23,7 @@ Langages         : Python, SQL, PySpark
 Machine Learning : Scikit-learn, XGBoost, Random Forest, TensorFlow, PyTorch
 MLOps & Déploiement : FastAPI, Docker, Airflow, GitHub Actions, Streamlit, MLflow
 Data & Cloud     : Snowflake, AWS, Power BI
-
+```
 ### **Lagnol SOBJIO**
 
 - **Data Scientist | Ingénieur en Mathématiques et Modélisation**
