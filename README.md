@@ -18,13 +18,10 @@
 
 ### 🧰 Tech Stack Favori
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=1000&color=00ADB5&center=true&vCenter=true&multiline=true&width=800&lines=🔍+Scoring+%7C+Prévision+%7C+Séries+Temporelles;🧠+Machine+Learning+%7C+Deep+Learning+%7C+MLOps;📊+Data+Storytelling+%7C+API+Prod+%7C+CI%2FCD" alt="Typing animation" />
-</div>
 
 <table align="center">
   <tr>
-    <th align="left">🧠 Machine Learning</th>
+    <th align="left"> Machine Learning</th>
     <td>Scikit-learn, XGBoost, Random Forest, TensorFlow, PyTorch</td>
   </tr>
   <tr>
@@ -32,11 +29,11 @@
     <td>Python, SQL, PySpark</td>
   </tr>
   <tr>
-    <th align="left">🚀 MLOps & Déploiement</th>
+    <th align="left"> MLOps & Déploiement</th>
     <td>FastAPI, Docker, Airflow, GitHub Actions, Streamlit, MLflow</td>
   </tr>
   <tr>
-    <th align="left">☁️ Data & Cloud</th>
+    <th align="left">☁ Data & Cloud</th>
     <td>Snowflake, AWS, Power BI</td>
   </tr>
 </table>
