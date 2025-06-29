@@ -1,4 +1,7 @@
 <h1 align="center">👋 Hello, I'm Lagnol SOBJIO</h1>
+
+---
+
 <h3 align="center">Data Scientist | Ingénieur en Mathématiques et Modélisation !</h3>
 
 <div align="center">
@@ -39,6 +42,8 @@
   </tr>
 </table>
 
+---
+
 ### 📇 **Infos de contact & Présentation rapide**
 
 
@@ -64,5 +69,5 @@
     <td>Île-de-France, France</td>
   </tr>
 </table>
-
+---
 
