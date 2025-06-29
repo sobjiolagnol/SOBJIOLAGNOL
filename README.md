@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Data Scientist — prédire, scorer, impacter !</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=1000&size=14&pause=1000&color=00ADB5&center=true&vCenter=true&multiline=true&width=800&lines=🔍+Scoring+%7C+Prévision+%7C+Séries+Temporelles;🧠+Machine+Learning+%7C+Deep+Learning+%7C+MLOps;📊+Data+Storytelling+%7C+API+Prod+%7C+CI%2FCD" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=1000&size=19&pause=500&color=00ADB5&center=true&vCenter=true&multiline=true&width=800&lines=🔍+Scoring+%7C+Prévision+%7C+Séries+Temporelles;🧠+Machine+Learning+%7C+Deep+Learning+%7C+MLOps;📊+Data+Storytelling+%7C+API+Prod+%7C+CI%2FCD" alt="Typing animation" />
 </div>
 
 ---
