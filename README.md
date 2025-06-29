@@ -2,7 +2,7 @@
 <h3 align="center">Data Scientist | Ingénieur en Mathématiques et Modélisation !</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&pause=50&color=00ADB5&center=true&vCenter=true&multiline=true&width=1000&lines=🧠+Machine+Learning+%7C+Deep+Learning+%7C+MLOps+%7C+Scoring;📊+Data+Storytelling+%7C+CI%2FCD+%7C+API+FastAPI+%7C+Automatisation" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=15&pause=50&color=00ADB5&center=true&vCenter=true&multiline=true&width=1000&lines=🧠+Machine+Learning+%7C+Deep+Learning+%7C+MLOps+%7C+Scoring;📊+Data+Storytelling+%7C+CI%2FCD+%7C+API+FastAPI+%7C+Automatisation" alt="Typing animation" />
 </div>
 
 
