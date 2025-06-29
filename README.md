@@ -4,17 +4,6 @@
 
 🔍 Plus de 2 ans d'expérience en modélisation prédictive et machine learning, dans les secteurs banque, assurance et énergie.
 
-🚀 Mes expertises :
-- Modèles de scoring & prévision (Satisfaction client, Impayés, Recouvrement)
-- Data storytelling & mise en production (Python, CI/CD, Snowflake, FastAPI)
-- Traitement de données complexes (Séries temporelles, NLP, Clustering)
-
-🛠️ Stack préférée :
-`Python` • `Scikit-learn` • `SQL` • `Docker` • `Snowflake` • `Git`
-
-🎓 Master of Science à ESTIA et Mastère Spécialisé à l'ENSAI  en Data Science & Intelligence Artificielle
-
-📫 Contact : lagnolsobjio@yahoo.fr | [LinkedIn](https://www.linkedin.com/in/lagnol-sobjio/) | 📍 Île-de-France, France
 
 
 <h1 align="center">👋 Salut, moi c’est Lagnol SOBJIO</h1>
@@ -30,14 +19,21 @@
 - 🎯 **2+ ans d’expérience** dans la modélisation prédictive (banque, assurance, énergie)
 - 🤝 Adepte du travail interdisciplinaire : métier + data + tech
 - 💬 J’aime faire parler les données et **vulgariser les modèles** pour qu’ils soient vraiment utilisés
-- 🧠 Formé à ENSAI, ESTIA & ESSFAR (Statistiques, IA, MLOps, NLP…)
+- 🎓 Master of Science à ESTIA et Mastère Spécialisé à l'ENSAI  en Data Science & Intelligence Artificielle
 
 ---
 
 ### 🧰 Stack & Outils préférés
 ```python
 Langages  : Python, SQL, PySpark
-Machine Learning : Scikit-learn, XGBoost, TensorFlow, PyTorch
+Machine Learning : Scikit-learn, XGBoost, Random Forest, TensorFlow, PyTorch
 Outils Data : Snowflake, Airflow, FastAPI, Docker
 Cloud & Prod : AWS, GitHub Actions, Streamlit, CI/CD, MLOps
+
+🛠️ Stack préférée :
+`Python` • `Scikit-learn` • `SQL` • `Docker` • `Snowflake` • `Git`
+
+
+📫 Contact : lagnolsobjio@yahoo.fr | [LinkedIn](https://www.linkedin.com/in/lagnol-sobjio/) | 📍 Île-de-France, France
+
 
