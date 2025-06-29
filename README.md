@@ -40,10 +40,28 @@
 
 ### **Lagnol SOBJIO**
 
-- **Data Scientist | Ingénieur en Mathématiques et Modélisation**
-- Passionné par les sciences de données et l'intelligence artificielle.
-- **Email** : [lagnolsobjio@yahoo.fr](mailto:lagnolsobjio@yahoo.fr)
-- **WhatsApp** : +33 07 44 88 64 74
-- **LinkedIn** : [Lagnol SOBJIO](https://www.linkedin.com/in/lagnol-sobjio/)
-- **Residence** Île-de-France, France
+
+<table>
+  <tr>
+    <th align="left">💡 Passion</th>
+    <td>Sciences de données et intelligence artificielle</td>
+  </tr>
+  <tr>
+    <th align="left">📧 Email</th>
+    <td><a href="mailto:lagnolsobjio@yahoo.fr">lagnolsobjio@yahoo.fr</a></td>
+  </tr>
+  <tr>
+    <th align="left">📱 WhatsApp</th>
+    <td>+33 07 44 88 64 74</td>
+  </tr>
+  <tr>
+    <th align="left">🔗 LinkedIn</th>
+    <td><a href="https://www.linkedin.com/in/lagnol-sobjio/">Lagnol SOBJIO</a></td>
+  </tr>
+  <tr>
+    <th align="left">📍 Résidence</th>
+    <td>Île-de-France, France</td>
+  </tr>
+</table>
+
 
