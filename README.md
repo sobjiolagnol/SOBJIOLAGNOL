@@ -30,9 +30,6 @@ Data & Cloud     : Snowflake, AWS, Power BI
 - Passionné par les sciences de données et l'intelligence artificielle.
 - **Email** : [lagnolsobjio@yahoo.fr](mailto:lagnolsobjio@yahoo.fr)
 - **WhatsApp** : +33 07 44 88 64 74
-- **LinkedIn** : [Lagnol SOBJIO](https://www.linkedin.com/in/lagnol-sobjio/)| 📍 Île-de-France, France
-
-
-📫 Contact : lagnolsobjio@yahoo.fr | [LinkedIn](https://www.linkedin.com/in/lagnol-sobjio/) | 📍 Île-de-France, France
-
+- **LinkedIn** : [Lagnol SOBJIO](https://www.linkedin.com/in/lagnol-sobjio/)
+- **Residence** Île-de-France, France
 
