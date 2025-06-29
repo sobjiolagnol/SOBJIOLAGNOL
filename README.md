@@ -25,15 +25,15 @@
     <td>Scikit-learn, XGBoost, Random Forest, TensorFlow, PyTorch</td>
   </tr>
   <tr>
-    <th align="left">🛠️ Langages</th>
-    <td>Python, SQL, PySpark</td>
+    <th align="left">🛠 Langages</th>
+    <td>Python, R,SQL, PySpark</td>
   </tr>
   <tr>
     <th align="left"> MLOps & Déploiement</th>
     <td>FastAPI, Docker, Airflow, GitHub Actions, Streamlit, MLflow</td>
   </tr>
   <tr>
-    <th align="left">☁ Data & Cloud</th>
+    <th align="left"> Data & Cloud</th>
     <td>Snowflake, AWS, Power BI</td>
   </tr>
 </table>
