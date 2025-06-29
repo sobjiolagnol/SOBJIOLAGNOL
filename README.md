@@ -2,7 +2,8 @@
 <h1 align="center">👋 Hello, I'm Lagnol SOBJIO</h1>
 <h3 align="center">🚀Data Scientist passionné par la prédiction, le scoring et l’impact réel des modèles</h3>
 <div  align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00ADB5&center=true&vCenter=true&multiline=true&lines=🔍+Scoring%2C+Prédiction%2C+Séries+Temporelles;🧠+Machine+Learning+%7C+Deep+Learning;📊+Data+Storytelling+%7C+CI%2FCD+%7C+Cloud+%7C+API" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=🔍+Scoring,+Prévision;🧠+Machine+Learning,+Deep+Learning;📊+CI/CD,+Cloud,+API
+" alt="Typing SVG" />
 </div >
 
 ---
