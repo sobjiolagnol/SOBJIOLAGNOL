@@ -10,8 +10,8 @@
 - Traitement de données complexes (Séries temporelles, NLP, Clustering)
 
 🛠️ Stack préférée :
-`Python` • `Scikit-learn` • `XGBoost` • `SQL` • `Docker` • `Snowflake` • `Git`
+`Python` • `Scikit-learn` • `SQL` • `Docker` • `Snowflake` • `Git`
 
-🎓 Actuellement en Mastère Spécialisé à l'ENSAI (Data Science pour la Connaissance Client)
+🎓 Master of Science à ESTIA et Mastère Spécialisé à l'ENSAI  en Data Science & Intelligence Artificielle
 
 📫 Contact : lagnolsobjio@yahoo.fr | [LinkedIn](https://www.linkedin.com/in/sobjiolagnol) | 📍 Île-de-France, France
