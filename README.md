@@ -112,7 +112,11 @@
   </tbody>
 </table>
 
-
+| **Modélisation Mathématique** | 
+|------------------------------|
+| ![ARIMA](https://img.shields.io/badge/ARIMA-Statistical_Modeling-blue) 
+| ![Optimization](https://img.shields.io/badge/Optimization-Mathematical_Programming-green) 
+| ![Bayesian](https://img.shields.io/badge/Bayesian_Networks-Probabilistic_Graphs-red) |
 
 
 
