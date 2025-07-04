@@ -27,6 +27,7 @@
 
 
 
+<!-- Version visuelle avec badges -->
 <table align="center">
   <tr>
     <td align="center" width="25%">
@@ -36,27 +37,51 @@
       <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white">
     </td>
     <td align="center" width="25%">
+      <strong>Modélisation Mathématique</strong><br>
+      <img src="https://img.shields.io/badge/ARIMA-Time_Series-007ACC?style=for-the-badge&logo=mathworks&logoColor=white">
+      <img src="https://img.shields.io/badge/Optimization-Mathematical-009688?style=for-the-badge">
+      <img src="https://img.shields.io/badge/Bayesian-Networks-FF5722?style=for-the-badge">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%">
       <strong>Langages</strong><br>
       <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
       <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white">
       <img src="https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=white">
     </td>
-  </tr>
-  <tr>
     <td align="center" width="25%">
       <strong>Data Engineering</strong><br>
       <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
       <img src="https://img.shields.io/badge/Snowflake-%23292929.svg?style=for-the-badge&logo=snowflake&logoColor=white">
       <img src="https://img.shields.io/badge/apachespark-%23E35A16.svg?style=for-the-badge&logo=apachespark&logoColor=white">
     </td>
-    <td align="center" width="25%">
-      <strong>Visualisation</strong><br>
-      <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white">
-      <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">
-      <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white">
-    </td>
   </tr>
 </table>
+
+<!-- Version détaillée avec tableau -->
+<table align="center" style="border-collapse: collapse; width: 100%; font-family: sans-serif; margin-top: 20px;">
+  <thead>
+    <tr style="background-color: #f2f2f2;">
+      <th align="left" style="padding: 8px; border-bottom: 2px solid #ddd;">Domaine</th>
+      <th align="left" style="padding: 8px; border-bottom: 2px solid #ddd;">Technologies & Outils</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong>Modélisation Mathématique</strong></td>
+      <td style="padding: 8px; border-bottom: 1px solid #eee;">
+        <img src="https://img.shields.io/badge/Linear_Models-Statistical-009688?style=flat-square"> 
+        <img src="https://img.shields.io/badge/ARIMA-Time_Series-007ACC?style=flat-square">
+        <img src="https://img.shields.io/badge/Optimization-Convex-FF5722?style=flat-square"><br>
+        Modèles linéaires/généralisés, Séries temporelles (ARIMA, Prophet), Optimisation (linéaire, convexe), Réseaux bayésiens, Systèmes dynamiques
+      </td>
+    </tr>
+    <!-- Autres lignes du tableau original... -->
+  </tbody>
+</table>
+
+
 
 
 <table align="center" style="border-collapse: collapse; width: 100%; font-family: sans-serif;">
@@ -112,67 +137,6 @@
   </tbody>
 </table>
 
-| **Modélisation Mathématique** | 
-|------------------------------|
-| ![ARIMA](https://img.shields.io/badge/ARIMA-Statistical_Modeling-blue) 
-| ![Optimization](https://img.shields.io/badge/Optimization-Mathematical_Programming-green) 
-| ![Bayesian](https://img.shields.io/badge/Bayesian_Networks-Probabilistic_Graphs-red) |
-
-<h3>🛠️ Compétences Techniques</h3>
-
-<!-- Version visuelle avec badges -->
-<table align="center">
-  <tr>
-    <td align="center" width="25%">
-      <strong>Machine Learning</strong><br>
-      <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
-      <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
-      <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white">
-    </td>
-    <td align="center" width="25%">
-      <strong>Modélisation Mathématique</strong><br>
-      <img src="https://img.shields.io/badge/ARIMA-Time_Series-007ACC?style=for-the-badge&logo=mathworks&logoColor=white">
-      <img src="https://img.shields.io/badge/Optimization-Mathematical-009688?style=for-the-badge">
-      <img src="https://img.shields.io/badge/Bayesian-Networks-FF5722?style=for-the-badge">
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="25%">
-      <strong>Langages</strong><br>
-      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-      <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white">
-      <img src="https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=white">
-    </td>
-    <td align="center" width="25%">
-      <strong>Data Engineering</strong><br>
-      <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
-      <img src="https://img.shields.io/badge/Snowflake-%23292929.svg?style=for-the-badge&logo=snowflake&logoColor=white">
-      <img src="https://img.shields.io/badge/apachespark-%23E35A16.svg?style=for-the-badge&logo=apachespark&logoColor=white">
-    </td>
-  </tr>
-</table>
-
-<!-- Version détaillée avec tableau -->
-<table align="center" style="border-collapse: collapse; width: 100%; font-family: sans-serif; margin-top: 20px;">
-  <thead>
-    <tr style="background-color: #f2f2f2;">
-      <th align="left" style="padding: 8px; border-bottom: 2px solid #ddd;">Domaine</th>
-      <th align="left" style="padding: 8px; border-bottom: 2px solid #ddd;">Technologies & Outils</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong>Modélisation Mathématique</strong></td>
-      <td style="padding: 8px; border-bottom: 1px solid #eee;">
-        <img src="https://img.shields.io/badge/Linear_Models-Statistical-009688?style=flat-square"> 
-        <img src="https://img.shields.io/badge/ARIMA-Time_Series-007ACC?style=flat-square">
-        <img src="https://img.shields.io/badge/Optimization-Convex-FF5722?style=flat-square"><br>
-        Modèles linéaires/généralisés, Séries temporelles (ARIMA, Prophet), Optimisation (linéaire, convexe), Réseaux bayésiens, Systèmes dynamiques
-      </td>
-    </tr>
-    <!-- Autres lignes du tableau original... -->
-  </tbody>
-</table>
 
 ---
 ### 📇 **Infos de contact & Présentation rapide**
