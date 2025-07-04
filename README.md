@@ -23,10 +23,6 @@
 ---
 <h3>🛠️ Compétences Techniques</h3>
 
-
-
-
-<!-- Version visuelle avec badges -->
 <table align="center">
   <tr>
     <td align="center" width="25%">
@@ -58,29 +54,6 @@
   </tr>
 </table>
 
-<!-- Version détaillée avec tableau -->
-<table align="center" style="border-collapse: collapse; width: 100%; font-family: sans-serif; margin-top: 20px;">
-  <thead>
-    <tr style="background-color: #f2f2f2;">
-      <th align="left" style="padding: 8px; border-bottom: 2px solid #ddd;">Domaine</th>
-      <th align="left" style="padding: 8px; border-bottom: 2px solid #ddd;">Technologies & Outils</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong>Modélisation Mathématique</strong></td>
-      <td style="padding: 8px; border-bottom: 1px solid #eee;">
-        <img src="https://img.shields.io/badge/Linear_Models-Statistical-009688?style=flat-square"> 
-        <img src="https://img.shields.io/badge/ARIMA-Time_Series-007ACC?style=flat-square">
-        <img src="https://img.shields.io/badge/Optimization-Convex-FF5722?style=flat-square"><br>
-      </td>
-    </tr>
-    <!-- Autres lignes du tableau original... -->
-  </tbody>
-</table>
-
-
-
 
 <table align="center" style="border-collapse: collapse; width: 100%; font-family: sans-serif;">
   <thead>
@@ -93,45 +66,82 @@
     <tr>
       <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong>Machine Learning</strong></td>
       <td style="padding: 8px; border-bottom: 1px solid #eee;">
-        Scikit-learn, XGBoost, LightGBM, CatBoost, TensorFlow, PyTorch, Keras, Statsmodels
+        <img src="https://img.shields.io/badge/Scikit--learn-ML-F7931E?style=flat-square">
+        <img src="https://img.shields.io/badge/XGBoost-Ensemble-E53935?style=flat-square">
+        <img src="https://img.shields.io/badge/LightGBM-Gradient_Boosting-4CAF50?style=flat-square">
+        <img src="https://img.shields.io/badge/CatBoost-Boosting-FFC107?style=flat-square">
+        <img src="https://img.shields.io/badge/TensorFlow-Deep_Learning-FF6F00?style=flat-square">
+        <img src="https://img.shields.io/badge/PyTorch-Deep_Learning-EE4C2C?style=flat-square">
+        <img src="https://img.shields.io/badge/Keras-API-E91E63?style=flat-square">
+        <img src="https://img.shields.io/badge/Statsmodels-Statistical-009688?style=flat-square">
       </td>
     </tr>
-      <tr>
+    <tr>
       <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong>Modélisation Mathématique</strong></td>
       <td style="padding: 8px; border-bottom: 1px solid #eee;">
-        <img src="https://img.shields.io/badge/Linear_Models-Statistical-009688?style=flat-square"> 
+        <img src="https://img.shields.io/badge/Modèle_Linéaire-Statsmodels-009688?style=flat-square">
         <img src="https://img.shields.io/badge/ARIMA-Time_Series-007ACC?style=flat-square">
-        <img src="https://img.shields.io/badge/Optimization-Convex-FF5722?style=flat-square"><br>
+        <img src="https://img.shields.io/badge/Optimisation-Convexe-FF5722?style=flat-square">
+        <img src="https://img.shields.io/badge/MCMC-Probabilistic-9C27B0?style=flat-square">
+        <img src="https://img.shields.io/badge/SDE-Diff_Stochastique-3F51B5?style=flat-square">
       </td>
     </tr>
     <tr>
       <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong>Langages</strong></td>
       <td style="padding: 8px; border-bottom: 1px solid #eee;">
-        Python, R, SQL, PySpark, Bash
+        <img src="https://img.shields.io/badge/Python-3.10-3776AB?style=flat-square&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/R-Statistique-276DC3?style=flat-square&logo=r&logoColor=white">
+        <img src="https://img.shields.io/badge/SQL-Database-CC2927?style=flat-square&logo=sqlite&logoColor=white">
+        <img src="https://img.shields.io/badge/PySpark-BigData-E25A1C?style=flat-square&logo=apache-spark&logoColor=white">
+        <img src="https://img.shields.io/badge/Bash-Scripting-4EAA25?style=flat-square&logo=gnubash&logoColor=white">
       </td>
     </tr>
     <tr>
       <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong>MLOps & Déploiement</strong></td>
       <td style="padding: 8px; border-bottom: 1px solid #eee;">
-        FastAPI, Docker, Airflow, MLflow, Streamlit, GitHub Actions, DVC, ONNX, Kubernetes (bases)
+        <img src="https://img.shields.io/badge/FastAPI-API-009688?style=flat-square">
+        <img src="https://img.shields.io/badge/Docker-Container-2496ED?style=flat-square&logo=docker&logoColor=white">
+        <img src="https://img.shields.io/badge/Airflow-Orchestration-017CEE?style=flat-square&logo=apache-airflow&logoColor=white">
+        <img src="https://img.shields.io/badge/MLflow-Tracking-F65E3B?style=flat-square">
+        <img src="https://img.shields.io/badge/Streamlit-App-F14C8D?style=flat-square&logo=streamlit&logoColor=white">
+        <img src="https://img.shields.io/badge/GitHub_Actions-CI/CD-2088FF?style=flat-square&logo=githubactions&logoColor=white">
+        <img src="https://img.shields.io/badge/DVC-Data_Versioning-945DD6?style=flat-square">
+        <img src="https://img.shields.io/badge/ONNX-Interop-005CED?style=flat-square">
+        <img src="https://img.shields.io/badge/Kubernetes-Basic-326CE5?style=flat-square&logo=kubernetes&logoColor=white">
       </td>
     </tr>
     <tr>
       <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong>Data Engineering & Cloud</strong></td>
       <td style="padding: 8px; border-bottom: 1px solid #eee;">
-        Snowflake, AWS (S3, Lambda, EC2), BigQuery, Google Cloud Platform, Spark, Hadoop
+        <img src="https://img.shields.io/badge/Snowflake-Cloud_Data-56B9EB?style=flat-square">
+        <img src="https://img.shields.io/badge/AWS-S3_Lambda_EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white">
+        <img src="https://img.shields.io/badge/BigQuery-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white">
+        <img src="https://img.shields.io/badge/GCP-Cloud_Platform-34A853?style=flat-square&logo=googlecloud&logoColor=white">
+        <img src="https://img.shields.io/badge/Spark-Processing-E25A1C?style=flat-square&logo=apachespark&logoColor=white">
+        <img src="https://img.shields.io/badge/Hadoop-Storage-66CCFF?style=flat-square&logo=apachehadoop&logoColor=white">
       </td>
     </tr>
     <tr>
       <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong>Visualisation & BI</strong></td>
       <td style="padding: 8px; border-bottom: 1px solid #eee;">
-        Power BI, Tableau, Matplotlib, Seaborn, Plotly, Dash
+        <img src="https://img.shields.io/badge/PowerBI-Business_Intelligence-F2C811?style=flat-square&logo=powerbi&logoColor=white">
+        <img src="https://img.shields.io/badge/Tableau-Dashboard-E97627?style=flat-square&logo=tableau&logoColor=white">
+        <img src="https://img.shields.io/badge/Matplotlib-Plotting-11557C?style=flat-square">
+        <img src="https://img.shields.io/badge/Seaborn-Stats_Visual-4C72B0?style=flat-square">
+        <img src="https://img.shields.io/badge/Plotly-Interactive-3F4F75?style=flat-square">
+        <img src="https://img.shields.io/badge/Dash-Web_App-119DFF?style=flat-square">
       </td>
     </tr>
     <tr>
       <td style="padding: 8px;"><strong>Gestion de Projet & Méthodologie</strong></td>
       <td style="padding: 8px;">
-        Agile/Scrum, Git, CI/CD, Documentation (Markdown, Sphinx), ML Lifecycle, Data Governance
+        <img src="https://img.shields.io/badge/Agile/Scrum-Methodology-795548?style=flat-square">
+        <img src="https://img.shields.io/badge/Git-Version_Control-F05032?style=flat-square&logo=git&logoColor=white">
+        <img src="https://img.shields.io/badge/CI/CD-Automation-0A66C2?style=flat-square">
+        <img src="https://img.shields.io/badge/Markdown-Docs-000000?style=flat-square&logo=markdown&logoColor=white">
+        <img src="https://img.shields.io/badge/Sphinx-Doc_Generator-3C3C3C?style=flat-square">
+        <img src="https://img.shields.io/badge/ML_Lifecycle-End_to_End-3E4E88?style=flat-square">
+        <img src="https://img.shields.io/badge/Data_Governance-Standards-607D8B?style=flat-square">
       </td>
     </tr>
   </tbody>
