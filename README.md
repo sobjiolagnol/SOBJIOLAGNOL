@@ -21,61 +21,123 @@
 
 
 ---
-
-# Stack Technique
-
-### 🤖 Machine Learning & AI
-<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"> <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white" alt="TensorFlow"> <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white" alt="PyTorch"> <img src="https://img.shields.io/badge/XGBoost-017CEE?style=flat&logo=xgboost&logoColor=white" alt="XGBoost"> <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white" alt="Keras">
-
-### 📊 Data Science & Analytics
-<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white" alt="Pandas"> <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white" alt="NumPy"> <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white" alt="Plotly"> <img src="https://img.shields.io/badge/ARIMA-Time_Series-007ACC?style=flat&logo=mathworks&logoColor=white" alt="ARIMA">
-
-### ☁️ Cloud & Data Engineering
-<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white" alt="AWS"> <img src="https://img.shields.io/badge/Snowflake-%23292929.svg?style=flat&logo=snowflake&logoColor=white" alt="Snowflake"> <img src="https://img.shields.io/badge/apachespark-%23E35A16.svg?style=flat&logo=apachespark&logoColor=white" alt="Spark"> <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" alt="Docker">
-
-### 💻 Langages de Programmation
-<img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" alt="Python"> <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white" alt="R"> <img src="https://img.shields.io/badge/sql-%2307405e.svg?style=flat&logo=amazon-dynamodb&logoColor=white" alt="SQL"> <img src="https://img.shields.io/badge/bash-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white" alt="Bash">
-
-## 🛠️ Outils & Plateformes
-
-### 🚀 MLOps & Déploiement
-<img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi" alt="FastAPI"> <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColor=white" alt="Airflow"> <img src="https://img.shields.io/badge/MLflow-%23d9ead3.svg?style=flat&logo=numpy&logoColor=blue" alt="MLflow"> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=white" alt="Streamlit">
-
-### 📊 Visualisation & BI
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=Power%20BI&logoColor=black" alt="Power BI"> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white" alt="Tableau"> <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black" alt="Matplotlib"> <img src="https://img.shields.io/badge/Seaborn-%233F4F75.svg?style=flat&logo=python&logoColor=white" alt="Seaborn">
-
-## 📈 Méthodologies
-<img src="https://img.shields.io/badge/Agile-%23FFFFFF.svg?style=flat&logo=agile&logoColor=black" alt="Agile"> <img src="https://img.shields.io/badge/Scrum-%23FFFFFF.svg?style=flat&logo=scrum&logoColor=6DB33F" alt="Scrum"> <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/CI/CD-%23000000.svg?style=flat&logo=githubactions&logoColor=white" alt="CI/CD">
-
----
+<h3>🛠️ Compétences Techniques</h3>
 
 
 
 
-
-
-
-## 🧰 Technical Stack
-
-<table>
+<!-- Version visuelle avec badges -->
+<table align="center">
   <tr>
-    <th>Category</th>
-    <th colspan="3">Technologies</th>
+    <td align="center" width="25%">
+      <strong>Machine Learning</strong><br>
+      <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
+      <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
+      <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white">
+    </td>
+    <td align="center" width="25%">
+      <strong>Modélisation Mathématique</strong><br>
+      <img src="https://img.shields.io/badge/ARIMA-Time_Series-007ACC?style=for-the-badge&logo=mathworks&logoColor=white">
+      <img src="https://img.shields.io/badge/Optimization-Mathematical-009688?style=for-the-badge">
+      <img src="https://img.shields.io/badge/Bayesian-Networks-FF5722?style=for-the-badge">
+    </td>
   </tr>
   <tr>
-    <td rowspan="2"><strong>🤖 ML</strong></td>
-    <td><img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch" height="20"></td>
-    <td><img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow" height="20"></td>
-    <td><img src="https://img.shields.io/badge/Keras-D00000?logo=keras" height="20"></td>
+    <td align="center" width="25%">
+      <strong>Langages</strong><br>
+      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+      <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white">
+      <img src="https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=white">
+    </td>
+    <td align="center" width="25%">
+      <strong>Data Engineering</strong><br>
+      <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
+      <img src="https://img.shields.io/badge/Snowflake-%23292929.svg?style=for-the-badge&logo=snowflake&logoColor=white">
+      <img src="https://img.shields.io/badge/apachespark-%23E35A16.svg?style=for-the-badge&logo=apachespark&logoColor=white">
+    </td>
   </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/XGBoost-017CEE?logo=xgboost" height="20"></td>
-    <td><img src="https://img.shields.io/badge/SciKit Learn-F7931E?logo=scikit-learn" height="20"></td>
-    <td><img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv" height="20"></td>
-  </tr>
-  <!-- Autres lignes similaires... -->
 </table>
 
+<!-- Version détaillée avec tableau -->
+<table align="center" style="border-collapse: collapse; width: 100%; font-family: sans-serif; margin-top: 20px;">
+  <thead>
+    <tr style="background-color: #f2f2f2;">
+      <th align="left" style="padding: 8px; border-bottom: 2px solid #ddd;">Domaine</th>
+      <th align="left" style="padding: 8px; border-bottom: 2px solid #ddd;">Technologies & Outils</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong>Modélisation Mathématique</strong></td>
+      <td style="padding: 8px; border-bottom: 1px solid #eee;">
+        <img src="https://img.shields.io/badge/Linear_Models-Statistical-009688?style=flat-square"> 
+        <img src="https://img.shields.io/badge/ARIMA-Time_Series-007ACC?style=flat-square">
+        <img src="https://img.shields.io/badge/Optimization-Convex-FF5722?style=flat-square"><br>
+        Modèles linéaires/généralisés, Séries temporelles (ARIMA, Prophet), Optimisation (linéaire, convexe), Réseaux bayésiens, Systèmes dynamiques
+      </td>
+    </tr>
+    <!-- Autres lignes du tableau original... -->
+  </tbody>
+</table>
+
+
+
+
+<table align="center" style="border-collapse: collapse; width: 100%; font-family: sans-serif;">
+  <thead>
+    <tr style="background-color: #f2f2f2;">
+      <th align="left" style="padding: 8px; border-bottom: 2px solid #ddd;">Domaine</th>
+      <th align="left" style="padding: 8px; border-bottom: 2px solid #ddd;">Technologies & Outils</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong>Machine Learning</strong></td>
+      <td style="padding: 8px; border-bottom: 1px solid #eee;">
+        Scikit-learn, XGBoost, LightGBM, CatBoost, TensorFlow, PyTorch, Keras, Statsmodels
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong>Modélisation Mathématique</strong></td>
+      <td style="padding: 8px; border-bottom: 1px solid #eee;">
+        Modèles linéaires/généralisés, Séries temporelles (ARIMA, Prophet), Optimisation (linéaire, convexe), Réseaux bayésiens, Systèmes dynamiques
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong>Langages</strong></td>
+      <td style="padding: 8px; border-bottom: 1px solid #eee;">
+        Python, R, SQL, PySpark, Bash
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong>MLOps & Déploiement</strong></td>
+      <td style="padding: 8px; border-bottom: 1px solid #eee;">
+        FastAPI, Docker, Airflow, MLflow, Streamlit, GitHub Actions, DVC, ONNX, Kubernetes (bases)
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong>Data Engineering & Cloud</strong></td>
+      <td style="padding: 8px; border-bottom: 1px solid #eee;">
+        Snowflake, AWS (S3, Lambda, EC2), BigQuery, Google Cloud Platform, Spark, Hadoop
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong>Visualisation & BI</strong></td>
+      <td style="padding: 8px; border-bottom: 1px solid #eee;">
+        Power BI, Tableau, Matplotlib, Seaborn, Plotly, Dash
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 8px;"><strong>Gestion de Projet & Méthodologie</strong></td>
+      <td style="padding: 8px;">
+        Agile/Scrum, Git, CI/CD, Documentation (Markdown, Sphinx), ML Lifecycle, Data Governance
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+---
 
 
 
