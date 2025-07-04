@@ -17,21 +17,8 @@
 - 🤝 Habitué aux projets orientés impact : **score d’insatisfaction client**, **Modélisation prédictive du nombre de clients à risque d’impayé**, **Scoring de recouvrement**
 - 💡 Fort en **vulgarisation de modèles** pour les rendre réellement utilisables
 - 🎓 Diplômé  de l’[ENSAI (Mastère Spécialisé - Data Science Pour la Connaissance client (Bac+6)](https://ensai.fr/mastere-specialise-data-science-pour-la-connaissance-client/) et d' [ESTIA (Master of Science - Big Data & Intelligence Artificielle)(Bac+5)](https://www.estia.fr/formations/master/masteres-specialises/msc-master-of-science-bihar-big-data-ai/)
-- 
+- [(Mon Profil Linkedin)](https://www.linkedin.com/in/lagnol-sobjio), Mon Tel :+33 07 44 88 64 74 et mon email:("mailto:lagnolsobjio@yahoo.fr)
 
-<table align="center">
-    <th align="left"> Email</th>
-    <td><a href="mailto:lagnolsobjio@yahoo.fr">lagnolsobjio@yahoo.fr</a></td>
-  </tr>
-  <tr>
-    <th align="left"> WhatsApp</th>
-    <td>+33 07 44 88 64 74</td>
-  </tr>
-  <tr>
-    <th align="left">LinkedIn</th>
-    <td><a href="https://www.linkedin.com/in/lagnol-sobjio/">Lagnol SOBJIO</a></td>
-  </tr>
-</table>
 ---
 
 
