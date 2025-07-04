@@ -78,6 +78,42 @@
 </table>
 
 
+
+
+<h3>🛠️ Compétences Techniques</h3>
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%">
+      <strong>Machine Learning</strong><br>
+      <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
+      <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
+      <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white">
+    </td>
+    <td align="center" width="25%">
+      <strong>Langages</strong><br>
+      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+      <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white">
+      <img src="https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%">
+      <strong>Data Engineering</strong><br>
+      <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
+      <img src="https://img.shields.io/badge/Snowflake-%23292929.svg?style=for-the-badge&logo=snowflake&logoColor=white">
+      <img src="https://img.shields.io/badge/apachespark-%23E35A16.svg?style=for-the-badge&logo=apachespark&logoColor=white">
+    </td>
+    <td align="center" width="25%">
+      <strong>Visualisation</strong><br>
+      <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white">
+      <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">
+      <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white">
+    </td>
+  </tr>
+</table>
+
+
 ---
 ### 📇 **Infos de contact & Présentation rapide**
 
