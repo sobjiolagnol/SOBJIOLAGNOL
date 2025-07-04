@@ -49,6 +49,68 @@
 
 ---
 
+
+📂 Stack Technique
+├── 🤖 Machine Learning & AI
+│   ├── <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
+│   ├── <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white" alt="TensorFlow">
+│   ├── <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white" alt="PyTorch">
+│   ├── <img src="https://img.shields.io/badge/XGBoost-017CEE?style=flat&logo=xgboost&logoColor=white" alt="XGBoost">
+│   └── <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white" alt="Keras">
+│
+├── 📊 Data Science
+│   ├── <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white" alt="Pandas">
+│   ├── <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white" alt="NumPy">
+│   ├── <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white" alt="Plotly">
+│   └── <img src="https://img.shields.io/badge/Statsmodels-%23007ACC.svg?style=flat&logo=python&logoColor=white" alt="Statsmodels">
+│
+├── ☁️ Cloud & Data Engineering
+│   ├── <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white" alt="AWS">
+│   ├── <img src="https://img.shields.io/badge/Snowflake-%23292929.svg?style=flat&logo=snowflake&logoColor=white" alt="Snowflake">
+│   ├── <img src="https://img.shields.io/badge/apachespark-%23E35A16.svg?style=flat&logo=apachespark&logoColor=white" alt="Spark">
+│   └── <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" alt="Docker">
+│
+└── 💻 Langages
+    ├── <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" alt="Python">
+    ├── <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white" alt="R">
+    ├── <img src="https://img.shields.io/badge/sql-%2307405e.svg?style=flat&logo=amazon-dynamodb&logoColor=white" alt="SQL">
+    └── <img src="https://img.shields.io/badge/bash-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white" alt="Bash">
+
+📂 Outils & Plateformes
+├── 🚀 MLOps
+│   ├── <img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi" alt="FastAPI">
+│   ├── <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColor=white" alt="Airflow">
+│   └── <img src="https://img.shields.io/badge/MLflow-%23d9ead3.svg?style=flat&logo=numpy&logoColor=blue" alt="MLflow">
+│
+├── 📊 Visualisation
+│   ├── <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=Power%20BI&logoColor=black" alt="Power BI">
+│   └── <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white" alt="Tableau">
+│
+└── 🔄 Méthodologies
+    ├── <img src="https://img.shields.io/badge/Agile-%23FFFFFF.svg?style=flat&logo=agile&logoColor=black" alt="Agile">
+    └── <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white" alt="Git">
+
+📊 Statistiques GitHub
+└── 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VOTRE_NOM&show_icons=true&theme=radical)](https://github.com/VOTRE_NOM)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_NOM&layout=compact&theme=radical)](https://github.com/VOTRE_NOM)
+
+🌱 Fun Fact: "J'optimise des algorithmes le jour... et mes recettes de cuisine le soir !"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### 📇 **Infos de contact & Présentation rapide**
 
 
