@@ -14,7 +14,7 @@
 ### 🌱 À propos de moi
 
 - 🎯 **2+ ans d’expérience** en modélisation prédictive dans les secteurs banque, assurance & énergie
-- 🤝 Habitué aux projets orientés impact : **score d’insatisfaction client**, **Modélisation prédictive du nombre de clients à risque d’impayé**, **Scoring de recouvrement**
+- 🤝 Habitué aux projets orientés impact : **score de risque d’insatisfaction client**, **Modélisation prédictive du nombre de clients à risque d’impayé**, **Scoring de recouvrement**
 - 💡 Fort en **vulgarisation de modèles** pour les rendre réellement utilisables
 - 🎓 Diplômé  de l’[ENSAI (Mastère Spécialisé - Data Science Pour la Connaissance client (Bac+6)](https://ensai.fr/mastere-specialise-data-science-pour-la-connaissance-client/) et d' [ESTIA (Master of Science - Big Data & Intelligence Artificielle)(Bac+5)](https://www.estia.fr/formations/master/masteres-specialises/msc-master-of-science-bihar-big-data-ai/)
 - Mon Profil Linkedin :    [Lagnol SOBJIO](https://www.linkedin.com/in/lagnol-sobjio)
