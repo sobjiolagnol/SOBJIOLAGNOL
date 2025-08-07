@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, Je suis Lagnol SOBJIO</h1>
+<h1 align="center">Hello, Je suis Lagnol SOBJIO</h1>
 
 ---
 
@@ -11,12 +11,12 @@
 
 ---
 
-### 🌱 À propos de moi
+###  À propos de moi
 
-- 🎯 Une expertise en **Machine learning engineer et Modélisation Statistique** dans les secteurs banque, assurance & énergie
-- 🤝 Habitué aux projets orientés impact : **score de risque d’insatisfaction client**, **Modélisation prédictive du nombre de clients à risque d’impayé**, **Scoring de recouvrement**
-- 💡 Fort en **vulgarisation de modèles** pour les rendre réellement utilisables
-- 🎓 Diplômé  de l’[ENSAI (Mastère Spécialisé - Data Science Pour la Connaissance client (Bac+6)](https://ensai.fr/mastere-specialise-data-science-pour-la-connaissance-client/) et d' [ESTIA (Master of Science - Big Data & Intelligence Artificielle)(Bac+5)](https://www.estia.fr/formations/master/masteres-specialises/msc-master-of-science-bihar-big-data-ai/)
+-  Une expertise en **Machine learning engineer et Modélisation Statistique** dans les secteurs banque, assurance & énergie
+-  Habitué aux projets orientés impact : **score de risque d’insatisfaction client**, **Modélisation prédictive du nombre de clients à risque d’impayé**, **Scoring de recouvrement**
+- Fort en **vulgarisation de modèles** pour les rendre réellement utilisables
+- Diplômé  de l’[ENSAI (Mastère Spécialisé - Data Science Pour la Connaissance client (Bac+6)](https://ensai.fr/mastere-specialise-data-science-pour-la-connaissance-client/) et d' [ESTIA (Master of Science - Big Data & Intelligence Artificielle)(Bac+5)](https://www.estia.fr/formations/master/masteres-specialises/msc-master-of-science-bihar-big-data-ai/)
 - Mon Profil Linkedin :    [Lagnol SOBJIO](https://www.linkedin.com/in/lagnol-sobjio)
 - Mon email:  lagnolsobjio@yahoo.fr
 
