@@ -1,4 +1,4 @@
-<h1 align="center">Hello, Je suis Lagnol SOBJIO</h1>
+<h1 align="center">Bonjour, Je suis Lagnol SOBJIO</h1>
 
 ---
 
