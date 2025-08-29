@@ -14,15 +14,15 @@
 ###  À propos de moi
 
 -  Une expertise en **Machine learning engineer et Modélisation Statistique** dans les secteurs banque, assurance & énergie
+
 | Projet / Mission                                | Compétences clés                                                                 | Outils / Librairies                          |
 |-------------------------------------------------|----------------------------------------------------------------------------------|----------------------------------------------|
-| **Score de risque d’insatisfaction client**       | Classification supervisée, NLP, analyse de verbatims, visualisation              | Python, scikit-learn, spaCy, Hugging Face, Matplotlib |
-| **Modélisation prédictive du risque d’impayé**    | Time series forecasting, régression, automatisation, déploiement cloud           | Python, scikit-learn, statsmodels, Snowflake, MLflow |
-| **Segmentation client & scoring de recouvrement** | Clustering (K-means, DBSCAN), scoring supervisé, optimisation des actions        | Python, scikit-learn, R, PowerBI, SQL        |
-| **Analyse de données & imputation intelligente**  | Techniques d’imputation (Random Forest, KNN Imputer, MICE), EDA, data cleaning   | Python, scikit-learn, pandas, Seaborn, Jupyter |
-| **Prévision du chiffre d’affaires e-commerce**    | Séries temporelles, modèles de prévision, optimisation de la demande             | Python, Prophet, statsmodels, scikit-learn   |
-| **Moteur de recommandation produits**             | Systèmes de recommandation (collaboratif & contenu), optimisation de conversion  | Python, scikit-learn, Surprise, TensorFlow   |
-  
+| *Score de risque d’insatisfaction client*       | Classification supervisée, NLP, analyse de verbatims, visualisation              | Python, scikit-learn, spaCy, Hugging Face, Matplotlib |
+| *Modélisation prédictive du risque d’impayé*    | Time series forecasting, régression, automatisation, déploiement cloud           | Python, scikit-learn, statsmodels, Snowflake, MLflow |
+| *Segmentation client & scoring de recouvrement* | Clustering (K-means, DBSCAN), scoring supervisé, optimisation des actions        | Python, scikit-learn, R, PowerBI, SQL        |
+| *Analyse de données & imputation intelligente*  | Techniques d’imputation (Random Forest, KNN Imputer, MICE), EDA, data cleaning   | Python, scikit-learn, pandas, Seaborn, Jupyter |
+| *Prévision du chiffre d’affaires e-commerce*    | Séries temporelles, modèles de prévision, optimisation de la demande             | Python, Prophet, statsmodels, scikit-learn   |
+| *Moteur de recommandation produits*             | Systèmes de recommandation (collaboratif & contenu), optimisation de conversion  | Python, scikit-learn, Surprise, TensorFlow   |
 
 - Fort en **vulgarisation de modèles** pour les rendre réellement utilisables
 - Diplômé  de l’[ENSAI (Mastère Spécialisé® - Data Science Pour la Connaissance client (Bac+6)](https://ensai.fr/mastere-specialise-data-science-pour-la-connaissance-client/) et d' [ESTIA (Master of Science - Big Data & Intelligence Artificielle)(Bac+5)](https://www.estia.fr/formations/master/masteres-specialises/msc-master-of-science-bihar-big-data-ai/)
