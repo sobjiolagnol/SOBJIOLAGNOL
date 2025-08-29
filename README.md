@@ -14,7 +14,12 @@
 ###  À propos de moi
 
 -  Une expertise en **Machine learning engineer et Modélisation Statistique** dans les secteurs banque, assurance & énergie
--  Habitué aux projets orientés impact : **score de risque d’insatisfaction client**, **Modélisation prédictive du nombre de clients à risque d’impayé**, **Analyse des verbatims clients**
+- Habitué aux projets orientés impact, notamment :  
+  -- **Score de risque d’insatisfaction client** : classification supervisée, NLP, analyse de verbatims, visualisation.  
+  -- **Modélisation prédictive du nombre de clients à risque d’impayé** : time series forecasting, régression, automatisation, déploiement cloud (Snowflake, pipelines).  
+  -- **Segmentation client & scoring de recouvrement** : clustering (K-means, DBSCAN), scoring supervisé, optimisation des actions.  
+  -- **Analyse de données & imputation intelligente** : techniques d’imputation (Random Forest, KNN Imputer, MICE), EDA, data cleaning.  
+
 - Fort en **vulgarisation de modèles** pour les rendre réellement utilisables
 - Diplômé  de l’[ENSAI (Mastère Spécialisé® - Data Science Pour la Connaissance client (Bac+6)](https://ensai.fr/mastere-specialise-data-science-pour-la-connaissance-client/) et d' [ESTIA (Master of Science - Big Data & Intelligence Artificielle)(Bac+5)](https://www.estia.fr/formations/master/masteres-specialises/msc-master-of-science-bihar-big-data-ai/)
 - Mon Profil Linkedin :    [Lagnol SOBJIO](https://www.linkedin.com/in/lagnol-sobjio)
