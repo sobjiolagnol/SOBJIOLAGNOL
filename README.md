@@ -17,9 +17,9 @@
 
 | Mission                                | Compétences clés                                                                 | Outils / Librairies                          |
 |-------------------------------------------------|----------------------------------------------------------------------------------|----------------------------------------------|
-| **Score de risque d’insatisfaction client**       | Classification supervisée, NLP, analyse de verbatims, visualisation              | Python, scikit-learn, spaCy, Hugging Face, Matplotlib |
-| **Modélisation prédictive du risque d’impayé**    | Time series forecasting, régression, automatisation, déploiement cloud           | Python, scikit-learn, statsmodels, Snowflake, MLflow |
-| **Segmentation client & scoring de recouvrement** | Clustering (K-means, DBSCAN), scoring supervisé, optimisation des actions        | Python, scikit-learn, R, PowerBI, SQL        |
+| **Score de risque d’insatisfaction client**       | Classification supervisée, NLP, analyse de verbatims, visualisation              | Python, scikit-learn, spaCy, Hugging Face,Streamlit, Matplotlib |
+| **Modélisation prédictive du risque d’impayé**    | Time series forecasting, régression, automatisation, déploiement cloud           | Python, scikit-learn, statsmodels, Snowflake,Streamlit, MLflow |
+| **Segmentation client & scoring de recouvrement** | Clustering (K-means, DBSCAN), scoring supervisé, optimisation des actions        | Python, scikit-learn, R, PowerBI, SQL,Streamlit       |
 | **Analyse de données & imputation intelligente**  | Techniques d’imputation (Random Forest, KNN Imputer, MICE), EDA, data cleaning   | Python, scikit-learn, pandas, Seaborn, Jupyter |
 
 
