@@ -13,7 +13,7 @@
 
 ###  À propos de moi
 
--  Une expertise en **Machine learning engineer et Modélisation Statistique** dans les secteurs banque, assurance & énergie
+-  Une expertise en **Machine learning engineer, Modélisation Statistique et IA Générative** dans les secteurs banque, assurance & énergie
 
 | Projet / Mission                                | Compétences clés                                                                 | Outils / Librairies                          |
 |-------------------------------------------------|----------------------------------------------------------------------------------|----------------------------------------------|
