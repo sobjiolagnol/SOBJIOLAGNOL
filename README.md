@@ -15,7 +15,7 @@
 
 -  Une expertise en **Machine learning engineer, Modélisation Statistique et IA Générative** dans les secteurs banque, assurance & énergie
 
-| Projet / Mission                                | Compétences clés                                                                 | Outils / Librairies                          |
+| Mission                                | Compétences clés                                                                 | Outils / Librairies                          |
 |-------------------------------------------------|----------------------------------------------------------------------------------|----------------------------------------------|
 | **Score de risque d’insatisfaction client**       | Classification supervisée, NLP, analyse de verbatims, visualisation              | Python, scikit-learn, spaCy, Hugging Face, Matplotlib |
 | **Modélisation prédictive du risque d’impayé**    | Time series forecasting, régression, automatisation, déploiement cloud           | Python, scikit-learn, statsmodels, Snowflake, MLflow |
