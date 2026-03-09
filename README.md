@@ -17,16 +17,13 @@
 
 | Mission                                              | Compétences clés                                                                                         | Outils / Librairies                                         |
 |-----------------------------------------------------|--------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|
-
-| **Structuration et fiabilisation des bases de données** | Normalisation, indexation, gestion des contraintes, audit de cohérence et qualité des données          | SQL, PostgreSQL, MySQL, dbt, Airflow                      |
-| **Analyse de la qualité et cohérence des données**  | Profiling, détection des anomalies, validation de règles métier, contrôle de cohérence                 | Python, pandas, Great Expectations, SQL, Tableau          |
+| **Structuration et fiabilisation des bases de données** | Normalisation, modélisation relationnelle, indexation, gestion des contraintes, audit de cohérence des données | SQL, PostgreSQL, MySQL, dbt, Airflow                      |
+| **Analyse de la qualité et cohérence des données**  | Data profiling, détection d’anomalies, validation de règles métier, contrôle de cohérence et complétude | Python, pandas, Great Expectations, SQL, Tableau          |
+| **Automatisation des flux et traitement de données** | ETL/ELT, pipelines automatisés, scripts de transformation, planification et monitoring                  | Python, Airflow, Prefect, dbt, SQL                        |
 | **Score de risque d’insatisfaction client**         | Classification supervisée, NLP, analyse de verbatims, visualisation                                     | Python, scikit-learn, spaCy, Hugging Face, Streamlit, Matplotlib |
 | **Modélisation prédictive du risque d’impayé**      | Time series forecasting, régression, automatisation, déploiement cloud                                  | Python, scikit-learn, statsmodels, Snowflake, Streamlit, MLflow |
 | **Segmentation client & scoring de recouvrement**   | Clustering (K-means, DBSCAN), scoring supervisé, optimisation des actions                               | Python, scikit-learn, R, PowerBI, SQL, Streamlit          |
 | **Analyse de données & imputation intelligente**    | Techniques d’imputation (Random Forest, KNN Imputer, MICE), EDA, data cleaning                          | Python, scikit-learn, pandas, Seaborn, Jupyter           |
-
-| **Automatisation des flux et traitement de données** | ETL/ELT, pipelines automatisés, scripts de transformation, planification et monitoring                  | Python, Airflow, Prefect, dbt, SQL                        |
-
 
 
 
